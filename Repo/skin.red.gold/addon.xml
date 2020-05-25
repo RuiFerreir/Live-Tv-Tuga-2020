@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.red.gold" version="6.2.0" name="Red Gold" provider-name="Rui Ferreira">
+	<requires>
+
+		<import addon="script.grab.fanart" version="0.12.8"/>
+		<import addon="script.skinshortcuts" version="1.0.10"/>
+		<import addon="service.library.data.provider" version="0.0.7"/>
+		<import addon="resource.images.studios.white" version="0.0.1"/>
+		<import addon="resource.images.recordlabels.white" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="0.75">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="fr_FR">Créé par BigNoid, Moddé par Rui Ferreira, avec les widgets de Mr V</summary>
+		<summary lang="pt_PT">Criado por BigNoid, Modded por Rui Ferreira, e Widgets por Mr. V</summary>
+		<description lang="fr_FR">Totalement revu pour créer un look moderne, en gardant l'expérience Aeon.</description>
+		<description lang="pt_PT">Completamente redesenhado para criar um visual moderno enquanto retém o toque clássico Aeon.</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
+		<forum>http://forum.kodi.tv/showthread.php?tid=210069</forum>
+		<website>https://github.com/mikesilvo164/Aeon-Nox-SiLVO</website>
+		<source>https://github.com/mikesilvo164/Aeon-Nox-SiLVO</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-08.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-09.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-10.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-11.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-12.jpg</screenshot>
+		</assets>
+		<news></news>
+	</extension>
+</addon>

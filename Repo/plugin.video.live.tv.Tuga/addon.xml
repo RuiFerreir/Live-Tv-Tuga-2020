@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.live.tv.Tuga"
+       name="[COLOR red][B]Live Tv Tuga[/B][/COLOR]"
+       version="2.8.4"
+       provider-name="Rui Ferreira">
+  <requires>
+	<import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+	<import addon="script.module.simple.downloader" version="0.9.4"/>
+	<import addon="script.module.beautifulsoup4" />
+	<import addon="script.module.requests" />
+	<import addon="script.module.httplib2" />
+	<import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+	<import addon="script.module.youtube.dl" optional="true"/>
+	<import addon="plugin.video.youtube" optional="true" />
+	<import addon="script.module.urlresolver" optional="true"/>
+	<import addon="script.module.simplejson" />    
+	<import addon="script.module.livestreamer" optional="true"/>
+	<import addon="script.module.pyamf" optional="true"/>
+	<import addon="plugin.video.Youtube-LiveTvTuga" version=""  />
+	<import addon="plugin.video.livetvtugavip" version=""  />
+	<import addon="plugin.video.LiveTube" version=""  />
+	<import addon="script.video.F4mProxy" version="" />
+        <import addon="plugin.video.f4mTester" version=""/>
+	<import addon="plugin.program.WIZARDLiveTvTuga" version="" />
+        <import addon="plugin.video.SportsDevil" version="" />
+	<import addon="plugin.video.youtube" version="" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+	
+	 <extension point="xbmc.addon.metadata">
+    <summary>[B][COLOR gold]Tudo para si desfrute[/COLOR][/B]</summary>
+    <description>
+        Tv Tuga Agradece a equipa que colaborou ao desenvolvimento deste addon, 
+	Ike, Magellan, Logan Tv, Ametikano Tuga TV, Tv Tuga
+        
+    </description>
+    <platform>all</platform>
+<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.gif</fanart>
+        </assets>
+  </extension>
+</addon>
+
+
+
