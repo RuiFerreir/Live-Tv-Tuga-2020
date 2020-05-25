@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.LiveTvTuga" name="[COLOR red][B]Repository Live Tv Tuga[/B][/COLOR]" version="1.5" provider-name="[COLOR red][B]Rui Ferreira[/B][/COLOR]">
 	<extension point="xbmc.addon.repository" name="repository.LiveTvTuga">
-		<info compressed="false">https://raw.githubusercontent.com/RuiFerreir/Live-Tv-Tuga-2020/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/RuiFerreir/Live-Tv-Tuga-2020/master/addons.xml.md5</checksum>
+		<info compressed="false">https://raw.githubusercontent.com/RuiFerreir/Live-Tv-Tuga-2020/master/Repo/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/RuiFerreir/Live-Tv-Tuga-2020/master/Repo/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/RuiFerreir/Live-Tv-Tuga-2020/master/Repo</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
@@ -12,3 +12,5 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+
+
