@@ -7,3 +7,6 @@ Repository
 
 
 [WIZARD Live Tv Tuga](https://github.com/RuiFerreir/Live-Tv-Tuga-2020/raw/master/Repo/plugin.program.WIZARDLiveTvTuga/plugin.program.WIZARDLiveTvTuga-1.1.1.zip) 
+
+
+[WIZARD Live Tv Tuga](https://github.com/RuiFerreir/Live-Tv-Tuga-2020/tree/master/Backgrounds)
