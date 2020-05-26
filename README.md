@@ -1,2 +1,2 @@
-# Live-Tv-Tuga-2020
+# Live Tv Tuga 2020
 Repository
